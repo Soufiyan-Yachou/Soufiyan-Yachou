@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Soufiyan-Yachou
-- 👀 I’m interested in Simulation medical
-- 🌱 I’m currently learning Nuclear physics
-- 💞️ I’m looking to collaborate on Gate Geant4
-- 📫 How to reach me soufiyanyachou@gmail.com
+# 👋 Hello! I'm Soufiyan Yachou
 
-<!---
-Soufiyan-Yachou/Soufiyan-Yachou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 👀 I have a keen interest in **medical simulations**.
+- 🌱 Currently, I am expanding my knowledge in **nuclear physics**.
+- 💞️ I am looking to collaborate on projects involving **GATE** and **Geant4**.
+- 📫 Feel free to reach out to me at [soufiyanyachou@gmail.com](mailto:soufiyanyachou@gmail.com).
+
+---
+
+✨ This repository is a special place for my projects and contributions. Check out my work and let's connect!
